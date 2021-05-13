@@ -300,10 +300,10 @@ ul.social_section_1info a span.fa {
 }
 h3.position {
     position: absolute;
-    font-size: 40px;
-    font-weight: 600;
+    font-size: 60px;
+    font-weight: 800;
     letter-spacing: 5px;
-    transform: rotate(90deg);
+    transform: rotate(600deg);
     right: -2%;
     top: 30%;
     color: #333;
