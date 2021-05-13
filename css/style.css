@@ -296,7 +296,7 @@ ul.social_section_1info a span.fa {
 /*-- about --*/
 
 .about{
-	position: relative;
+	position: absolute;
 }
 h3.position {
     position: relative;
