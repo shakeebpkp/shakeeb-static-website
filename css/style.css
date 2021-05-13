@@ -296,12 +296,12 @@ ul.social_section_1info a span.fa {
 /*-- about --*/
 
 .about{
-	position: absolute;
+	position: relative;
 }
 h3.position {
-    position: relative;
-    font-size: 60px;
-    font-weight: 800;
+    position: absolute;
+    font-size: 40px;
+    font-weight: 600;
     letter-spacing: 5px;
     transform: rotate(90deg);
     right: -2%;
